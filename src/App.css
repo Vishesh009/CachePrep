@@ -1,0 +1,68 @@
+.form {
+  background-color:#ff5757;
+}
+
+.container {
+  margin-top: auto;
+  margin-bottom: auto;
+  background-color: #ff5757;
+}
+
+.row-header{
+  margin: auto;
+  padding:25px 25px 60px 25px;
+  background-color:#223a5d;
+  
+}
+
+h1 {
+  color: white;
+  text-align: right;
+}
+
+h2 {
+  color: white;
+}
+
+.row-content {
+  background-color:#ff5757;
+  margin: auto;
+  padding: 50px 0px 50px 0px;
+  min-height:0px;
+}
+
+.center {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+ul {
+  font-size: 30px;
+  color: white;
+  margin-left: 600px;
+}
+
+img[alt*="quesimg"] {
+  max-width: 100%;
+  margin-left: 560px;
+}
+
+#answer {
+  margin-left: 400px;
+  font-size:19pt;
+}
+
+#recorder {
+  margin-left: 600px
+}
+
+.button {
+  background-color: #24a0ed;
+  border: white;
+  color: white;
+  font-size: 20px;
+  padding: 12px 28px;
+  border-radius: 12px;
+  margin-bottom: 8px;
+}
